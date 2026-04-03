@@ -116,10 +116,10 @@ Main dependencies include:
 
 ## Installation
 
-From this directory:
+From the repository root:
 
 ```bash
-cd /home/runner/work/fuzzy-logic-project/fuzzy-logic-project/ravindu/football-analysis
+cd ravindu/football-analysis
 ```
 
 Install dependencies:
